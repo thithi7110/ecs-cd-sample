@@ -1,5 +1,5 @@
 version: 0.2
-#1.0.4
+#1.0.5
 env:
   parameter-store:
     DOCKERPASS: /CodeBuild/dockerpass
